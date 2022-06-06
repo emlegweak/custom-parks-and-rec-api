@@ -12,7 +12,7 @@ const PORT = 8000
 //===================================
 //so user can access data from api from client-side code w/o cors issues
 app.use(cors())
-app.use(express.static(__dirname + '/public'))
+app.use(express.static(__dirname + '/' +'public'))
 
 //===================================
 // DATA 
@@ -1214,7 +1214,7 @@ const characters = {
 //===================================
 
 app.get('/', (request, response) => {
-    response.sendFile(__dirname + '/index.html')
+    response.sendFile(__dirname + '/' + 'index.html')
 })
 
 //return query parameter
