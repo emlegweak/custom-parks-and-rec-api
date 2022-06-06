@@ -12,6 +12,7 @@ const PORT = 8000
 //===================================
 //so user can access data from api from client-side code w/o cors issues
 app.use(cors())
+app.use(express.static(__dirname + '/public'))
 
 //===================================
 // DATA 
