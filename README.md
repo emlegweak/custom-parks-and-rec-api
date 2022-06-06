@@ -3,7 +3,7 @@ Love Parks and Rec and need information about your favorite characters for your 
 
 **Link to project:** https://parks-and-rec-api-100devs.herokuapp.com/
 
-![Parks and Rec API index screenshot](https://ibb.co/Czsj89p)
+![Parks and Rec API index screenshot](https://i.ibb.co/56xQ4jX/parksandrec-API.png)
 
 ## How It's Made:
 
