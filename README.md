@@ -1,5 +1,5 @@
 # Parks and Recreation Characters API
-Love Parks and Rec and need information about your favorite characters for your frontend, backend, or fullstack web apps? Look no further! I have created Ron's worst nightmare, a Parks and Rec API with information about many recurring characters in the series from all seasons. 
+Love Parks and Rec and need information about your favorite characters for your frontend, backend, or fullstack web apps? Look no further! I have created Ron's worst nightmare, a Parks and Rec API with information about many recurring characters in the series from all 7 seasons. 
 
 **Link to project:** https://parks-and-rec-api-100devs.herokuapp.com/
 
