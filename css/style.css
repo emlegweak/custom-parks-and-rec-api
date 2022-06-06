@@ -1,0 +1,15 @@
+body{
+    display: grid;
+    place-items: center;
+    background-image:url('/img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+main{
+    width: clamp(23ch, 50%, 46ch);
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    background-color: white;
+}
