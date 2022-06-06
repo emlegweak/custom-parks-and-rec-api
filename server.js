@@ -1212,6 +1212,9 @@ const characters = {
 //===================================
 // ROUTES
 //===================================
+app.get('/style.css', function (req, res) {
+    res.sendFile(__dirname + "/" + "style.css");
+})
 
 app.get('/', (request, response) => {
     response.sendFile(__dirname + '/' + 'index.html')
